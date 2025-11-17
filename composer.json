@@ -1,0 +1,5 @@
+{
+	"name": "epiphyt/embed-privacy-stubs",
+	"description": "Embed Privacy function and class declaration stubs for static analysis by PHPStan",
+	"minimum-stability": "stable"
+}
